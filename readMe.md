@@ -1,4 +1,4 @@
-## formalme 
+## Mia Baca Resume Portal 
 ### major projects in support of the Bachelos of Business Administration at California State Polytechnic University, Pomona, CA (Cal Poly :)) 
 1. business intelligence for excel 
 2. advanced analytics, Python/Pandas 
